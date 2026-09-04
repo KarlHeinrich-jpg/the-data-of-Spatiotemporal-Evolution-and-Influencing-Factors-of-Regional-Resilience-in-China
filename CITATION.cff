@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated paper."
+title: "Spatiotemporal Evolution and Influencing Factors of Regional Resilience in China: Evidence from Provincial Panel Data Using Spearman-CRITIC and XGBoost-CatBoost-SHAP"
+type: dataset
+authors:
+  - family-names: "Li"
+    given-names: "Yuan"
+    affiliation: "School of Economics, Beijing Technology and Business University"
+  - family-names: "Wang"
+    given-names: "Yile"
+    affiliation: "School of Economics, Beijing Technology and Business University"
+    email: "lasulse20@gmail.com"
+  - family-names: "Li"
+    given-names: "Wenjing"
+    affiliation: "Beijing Technology and Business University"
+    email: "lwjing99@yeah.net"
+date-released: "2026-09-04"
+url: "https://github.com/KarlHeinrich-jpg/the-data-of-Spatiotemporal-Evolution-and-Influencing-Factors-of-Regional-Resilience-in-China"
+keywords:
+  - regional resilience
+  - spatiotemporal evolution
+  - Spearman-CRITIC
+  - sustainable development
+  - XGBoost-CatBoost-SHAP
